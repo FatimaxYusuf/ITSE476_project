@@ -22,6 +22,15 @@ For documentation links and support resources, please use the [Wiki](https://git
 
 ---
 
+## Before Making Changes
+
+Please:
+
+- check the [open issues](https://github.com/FatimaxYusuf/RoomMate/issues)
+- open an issue first for major changes
+- keep each contribution focused on one improvement only
+
+---
 
 ## Using Issue Templates
 
@@ -34,16 +43,6 @@ When opening a new issue, please choose the correct template:
 - **Documentation Update**: for README, Wiki, website text, or guide improvements.
 
 Before submitting a new issue, please check the existing open issues to avoid duplicate reports.
-
-## Before Making Changes
-
-Please:
-
-- check the [open issues](https://github.com/FatimaxYusuf/RoomMate/issues)
-- open an issue first for major changes
-- keep each contribution focused on one improvement only
-
----
 
 ## Contribution Steps
 
