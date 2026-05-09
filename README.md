@@ -2,7 +2,7 @@
 ### Open-Source Hotel Reservation System
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/Status-Phase%201%20Complete-blue.svg)
+![Status](https://img.shields.io/badge/Status-Phase%202%20In%20%Progress%20Complete-blue.svg)
 ![Website](https://img.shields.io/badge/Website-GitHub%20Pages-222222?logo=github)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
 
@@ -33,12 +33,13 @@ The original Java implementation of the hotel reservation system is preserved in
 
 ## Status
 
-**Phase 1 Complete**
+**Phase 2 In Progress**
 
 RoomMate has completed its first phase of open-source setup and repository organization.  
-This phase established the public website, documentation structure, contributor guidance, Wiki pages, GitHub collaboration tools, and release setup.
+Phase 1 established the public website, documentation structure, contributor guidance, Wiki pages, GitHub collaboration tools, and release setup.
 
----
+The project is now in Phase 2, focusing on demonstrating version control activities and the GitHub issue/bug tracking workflow through a recorded demo and presentation.
+
 
 ## About This Repository
 
