@@ -52,7 +52,8 @@ Please include:
 - A clear description of the issue  
 - Steps to reproduce the problem  
 - Expected vs actual behavior  
-- Screenshots (if applicable)  
+- Screenshots (if applicable)
+  you can use the bug report in .github/ISSUE_TEMPLATE
 
 ---
 
