@@ -2,7 +2,7 @@
 ### Open-Source Hotel Reservation System
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/Status-Phase%202%20In%20%Progress%20Complete-blue.svg)
+![Status](https://img.shields.io/badge/Status-Phase%202%20In%20Progress-blue.svg)
 ![Website](https://img.shields.io/badge/Website-GitHub%20Pages-222222?logo=github)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
 
