@@ -22,6 +22,19 @@ For documentation links and support resources, please use the [Wiki](https://git
 
 ---
 
+
+## Using Issue Templates
+
+RoomMate provides GitHub issue templates to make issue reports clear and organized.
+
+When opening a new issue, please choose the correct template:
+
+- **Bug Report**: for errors, broken links, incorrect behavior, or problems in the project.
+- **Feature Request**: for suggesting a new feature or improvement.
+- **Documentation Update**: for README, Wiki, website text, or guide improvements.
+
+Before submitting a new issue, please check the existing open issues to avoid duplicate reports.
+
 ## Before Making Changes
 
 Please:
