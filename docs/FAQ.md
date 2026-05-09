@@ -48,12 +48,17 @@ The focus is on setting up the open-source structure, documentation, and basic f
 You can report issues using [GitHub Issues](https://github.com/FatimaxYusuf/ITSE476_project/issues).
 
 ### What information should I include in a bug report?
-Please include:
-- A clear description of the issue  
-- Steps to reproduce the problem  
-- Expected vs actual behavior  
-- Screenshots (if applicable)
-  you can use the bug report in .github/ISSUE_TEMPLATE
+
+RoomMate provides GitHub issue templates to make issue reports clear and organized.
+
+When opening a new issue, please choose the correct template:
+
+- **Bug Report**: for errors, broken links, incorrect behavior, or problems in the project.
+- **Feature Request**: for suggesting a new feature or improvement.
+- **Documentation Update**: for README, Wiki, website text, or guide improvements.
+
+Before submitting a new issue, please check the existing open issues to avoid duplicate reports.
+ 
 
 ---
 
